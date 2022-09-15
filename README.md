@@ -1,5 +1,5 @@
 # Website List Film
-Repository ini berisi Aplikasi List Film yang terdiri dari film apa saja yang tampil di bioskop beserta deskripsi film tersebut, tanggal tayang, hingga trailer film tersebut. Aplikasi ini juga 
+Repository ini berisi Aplikasi List Film yang terdiri dari film apa saja yang tampil di bioskop beserta deskripsi film tersebut, tanggal tayang, hingga trailer film tersebut.
 
 
 ## Features
